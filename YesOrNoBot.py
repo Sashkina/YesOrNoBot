@@ -1,17 +1,15 @@
 import logging
 import sys
-import os
 
 import requests
-# from dotenv import dotenv_values
+from dotenv import dotenv_values
 from telegram.ext import CommandHandler, Filters, MessageHandler, Updater
 
 from exceptions import NoTokensError
 
-# config = dotenv_values('.env')
+config = dotenv_values('.env')
 
-# TOKEN = config.get('TOKEN')
-TOKEN = os.getenv('TOKEN')
+TOKEN = config.get('TOKEN')
 
 URL = 'https://yesno.wtf/api'
 
