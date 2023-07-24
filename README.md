@@ -20,6 +20,8 @@ git clone https://github.com/Sashkina/YesOrNoBot.git
 cd YesOrNoBot
 ```
 
+Прописать TOKEN (telegram token) в .env
+
 Запустить бота:
 
 ```
