@@ -17,5 +17,11 @@ git clone https://github.com/Sashkina/YesOrNoBot.git
 ```
 
 ```
+cd YesOrNoBot
+```
+
+Запустить бота:
+
+```
 python YesOrNoBot.py
 ```
