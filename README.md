@@ -16,6 +16,28 @@ A bot that answers any questions yes or no
 git clone https://github.com/Sashkina/YesOrNoBot.git
 ```
 
+Cоздать и активировать виртуальное окружение:
+
+```
+python3 -m venv venv
+```
+
+```
+source venv/bin/activate
+```
+
+Установить зависимости из файла requirements.txt:
+
+```
+python3 -m pip install --upgrade pip
+```
+
+```
+pip install -r requirements.txt
+```
+
+Запустить бота:
+
 ```
 cd YesOrNoBot
 ```
