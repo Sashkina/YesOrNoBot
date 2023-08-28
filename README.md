@@ -1,5 +1,5 @@
 # YesOrNoBot
-a bot that answers any questions yes or no
+A bot that answers any questions yes or no
 
 
 ### Описание:
