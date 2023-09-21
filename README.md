@@ -1,6 +1,5 @@
 # YesOrNoBot
-A bot that answers any questions yes or no
-
+Доступен в telegram @YesOrNo_superbot
 
 ### Описание:
 
